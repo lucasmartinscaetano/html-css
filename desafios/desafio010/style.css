@@ -4,6 +4,7 @@
 }
 body{
     background-color: #acd4b3e5 ;
+    margin-top: 0px;
 }
 main{
     background-color:white;
@@ -20,6 +21,7 @@ header#entrada{
     text-align: center;
     background-image: linear-gradient( to top,#256130,#3DA14F,#56E070);
     font-family: sans-serif;  
+
 }
 header#entrada > nav.menu{
     text-align: left;
@@ -28,6 +30,7 @@ header#entrada > nav.menu{
 main h1 {
     font-family: 'android';
     color:#256130 ;
+    margin-top: none;
 }
 main h2{
     font-family: 'android';
